@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Divyansh</h1>
 <h3 align="center">I'm a Third year computer science student at VIT. I like technology and ready to learn new things daily.</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kumar-0-0&label=Profile%20views&color=0e75b6&style=flat" alt="kumar-0-0" /> </p>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kumar-0-0" alt="kumar-0-0" /></a> </p>
 
 - 🌱 I’m currently learning **AI and ML**
