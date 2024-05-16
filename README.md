@@ -4,11 +4,11 @@
 <img align="right" alt="GIF" src="https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif" width="400" height="290"/>
 
 # 💻 Tech Stack:
-* ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-* ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-* ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-* ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
- 
+<div align="left">
+    <img src="https://skillicons.dev/icons?i=python,java,javascript,react,flutter," />
+    <img src="https://skillicons.dev/icons?i=mongodb,express,nodejs,mysql,github,firebase" /><br>
+    <img src="https://skillicons.dev/icons?i=postman,tensorflow,vscode,git" />
+</div>
 
 
 # 📊 GitHub Stats:
