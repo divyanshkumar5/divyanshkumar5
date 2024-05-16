@@ -3,15 +3,14 @@
 
 <img align="right" alt="GIF" src="https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif" width="400" height="290"/>
 
-# 💻 Tech Stack:
+<h3 align="left">Languages and Tools 💻🛠️</h3>
 <div align="left">
     <img src="https://skillicons.dev/icons?i=python,java,javascript,react,flutter," />
     <img src="https://skillicons.dev/icons?i=mongodb,express,nodejs,mysql,github,firebase" /><br>
     <img src="https://skillicons.dev/icons?i=postman,tensorflow,vscode,git" />
 </div>
 
-
-# 📊 GitHub Stats:
+<h3 align="left">GitHub Stats📊</h3>
 <a href="https://github.com/divyanshkumar5/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=divyanshkumar5&theme=dark&hide_border=true&include_all_commits=false&count_private=false&rank_icon=percentile" />
 </a>
@@ -21,7 +20,8 @@
 </a>
 
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kumar._.05) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/divyanshkumar5) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/KUMAR__5) 
+<h3 align="left">Socials🌐</h3>
+<a href="https://linkedin.com/in/divyanshkumar5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/divyanshkumar5" height="30" width="40" /></a>
+<a href="https://instagram.com/kumar._.05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="animesh_raghav" height="30" width="40" /></a>
 
 
