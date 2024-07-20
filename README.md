@@ -1,4 +1,4 @@
-![Divyansh](https://github.com/divyanshkumar5/divyanshkumar5/blob/main/Linkedin%20banner.png)
+![Divyansh](https://github.com/divyanshkumar5/divyanshkumar5/blob/main/Divyansh_banner.png)
 
 <img align="right" alt="GIF"  src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="400" height="290"/>
 
