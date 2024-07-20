@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm DIVYANSH</h1>
-<h3 align="center">I'm a Final year computer science student at VIT. I like technology and ready to learn new things daily.</h3>
+![Divyansh](https://github.com/divyanshkumar5/divyanshkumar5/blob/main/Linkedin%20banner.png)
 
 <img align="right" alt="GIF"  src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="400" height="290"/>
 
